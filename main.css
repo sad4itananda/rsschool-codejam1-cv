@@ -14,7 +14,7 @@ body {
 
 }
 .info {
-	margin-right: 200px;
+	margin-right: 210px;
 }
 .flex {
 	display: flex;
@@ -22,14 +22,13 @@ body {
 	align-items:center;
 }
 .img-style {
-    border-radius: 14px; 
-    border: 2px solid gold;
-   }
-   main div {
-   	width: 93%;
-   	margin: 0 auto;
-   }
-   main p {
-   	margin-left: 10px;
-   }
-   
+	border-radius: 14px; 
+	border: 2px solid gold;
+}
+main div {
+	width: 93%;
+	margin: 0 auto;
+}
+main p {
+	margin-left: 10px;
+}
